@@ -3,7 +3,7 @@ include "head.php";
 ?>
 
 
-<div style="background:#F7F7F5 ;" class="container">
+<div style="background:#F7F7F5 ; margin-top: 20px;" class="container">
     <div class="w-75 bg-gray mx-auto">
         <h1 style="color: black ;">Conheça um pouco mais sobre o Ádamo Cozinha Brasileira</h1>
         <h5 style="color: black ;">O Ádamo Cozinha Brasileira procura superar as expectativas de seus clientes com a qualidade das refeições que serve. A busca da excelência na qualidade da alimentação das crianças é prioridade.

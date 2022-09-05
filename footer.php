@@ -1,4 +1,5 @@
-<footer style="margin-block-end: 300px;" class="rodape">
+
+<footer class="rodape">
 
 
         <img class="rodape-imagem" src="site/images/logosemfundo.png" alt="">
@@ -24,9 +25,10 @@
             </ul>
 
         </div>
-
+    
     </footer>
     
+
 
 
 

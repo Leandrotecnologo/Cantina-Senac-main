@@ -76,7 +76,7 @@ color: white;
 
   <div class="tul">
     <a href="index.php" title="Inicio">Inicio</a>
-    <a href="contato.php" title="Contato">Contato</a>
+    
 
     <a href="sobre.php" title="Sobre">Sobre</a>
     <div class="dropdown">
@@ -84,10 +84,12 @@ color: white;
 
       <div class="dropdown-content">
         <a href="refri.html">Bebidas</a>
-        <a href="#">Link 2</a>
-        <a href="#">Link 3</a>
+        <a href="#">Salgados</a>
+        <a href="#">Doces</a>
       </div>
-    </div>
+        </div>
+      <a href="contato.php" title="Carrinho de Compras"><img style="height: 40px; box-shadow: white;"; src="site/images/carrinho.png"></a>
+  
 
     
     
@@ -106,4 +108,7 @@ color: white;
           </button>
           
     </div>
+    <?
+    include "footer.php";
+    ?>
 </nav>
